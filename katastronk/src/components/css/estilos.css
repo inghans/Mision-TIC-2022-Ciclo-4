@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f7f7f7;
+
+}
+.menu{
+    height: 90px;
+    
+    padding-top: 20px;
+    background-color: white;
+}
+.text-menu{
+    color: black;
+    font-size: 14px;
+}
+.fondo-icono{
+    background-color: white;
+}
+.pie-pagina{
+    background-color: #2c2a29;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: white;
+}
+.text-pie{
+    color:darkgrey;
+    font-size: 14px;
+}
