@@ -1,0 +1,48 @@
+{
+	"persona":[
+		{
+		    "id": 1,
+		    "identificacion": "9146310",
+		    "nombre": "LERKIS CAUSADO ESPITIA",
+		    "direccion": "CARTAGENA",
+		    "telefono": "3175035033",
+		    "login": {
+		        "users": "admin",
+		        "pass": "1234"
+		    },
+		    "correo": "causadol@uninorte.edu.co"
+		},
+    {
+      "id":2,
+      "identificacion": "1066728367",
+      "nombre": "GUSTAVO GAVIRIA",
+      "direccion": "Pailitas - Cesar",     
+      "telefono": "3168431168",
+      "login": {
+        "users": "gustavo",
+        "pass": "1234"
+      },
+      "correo": "gagaviria@uninorte.edu.co"
+    }
+	],
+  "catastro":[
+    {
+      "id":1,
+      "direccion":"Barranquilla Sector via 40",
+      "medidas":"150hectares",
+      "personaId":1
+    },
+    {
+      "id":2,
+      "direccion":"Santa Marta Sector  Rodadero",
+      "medidas":"50 hectares",
+      "personaId":1
+    },
+    {
+      "id":3,
+      "direccion":"Barranquilla Zona Franca",
+      "medidas":"10 hectares",
+      "personaId":2
+    }
+  ]
+}

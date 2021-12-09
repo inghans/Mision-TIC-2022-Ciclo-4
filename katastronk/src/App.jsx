@@ -4,8 +4,9 @@ import "bootstrap/dist/js/bootstrap.bundle.js";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import './components/css/App.css';
 import './components/css/estilos.css';
-import Index from './components/Index';
-import InicioSesion from "./components/InicioSesion";
+import './components/css/estilos_login.css';
+import Index from './components/Index/Index';
+import InicioSesion from "./components/InicioSesion/InicioSesion"
 import Registro from "./components/Registro";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 
